@@ -1,7 +1,7 @@
 <h1 align="center">Hey, 👋  I'm Negin !</h1>
 <h3 align="center">Full-stack Web Developer based in Vienna, Austria. </h3>
 
-- 👨‍💻 SW Developer Intern
+- 👨‍💻 WD Developer Intern
 - 👨‍💻 @Upleveled Vienna bootcamp graduate
 
 - 🔭 I've been working on [Qvent Managment App](https://github.com/neginmahmoudi/qvent-managment.git)
