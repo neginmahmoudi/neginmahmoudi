@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Software Developer based in Vienna, Austria. </h3>
 
 - 👨‍💻 Software Developer 
-- 👨‍💻 @Upleveled Vienna bootcamp graduate
+
 
 
 - 🌱 Currently learning **OOP, Data Structures, Algorithms & Golang**
